@@ -8,6 +8,8 @@ This space contains the material related to the Unity course of the Data Science
 
 ## Explanation about the Unity template
 This project is simple Lorem ipsum dolor generator.
+
+## Slides
 	
 ## Useful links
 Project is created with:

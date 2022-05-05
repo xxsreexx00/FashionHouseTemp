@@ -18,7 +18,7 @@ It contains these parts:
 
 
 ## Links to slides of the course
-* Part 1: (https://pages.github.com/)
+* Part 1: (https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1)
 * Part 2: (https://pages.github.com/)
 	
 ## Extra tutorials

@@ -18,6 +18,8 @@ It contains these parts:
 
 
 ## Links to slides of the course
+* Part 1
+* Part 2
 	
 ## Extra tutorials
 Project is created with:

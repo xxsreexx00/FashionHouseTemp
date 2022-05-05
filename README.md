@@ -6,7 +6,7 @@ This space contains the material related to the Unity course of the Data Science
 * [Extra tutorials](#Tutorials)
 
 ## Explanation about the Unity template
-This project is simple Lorem ipsum dolor generator.
+This unity project aimed to provide a template for students to use as a start point for their projects.
 
 ## Links to slides of the course
 	

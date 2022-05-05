@@ -5,7 +5,7 @@ This space contains the material related to the Unity course of the Data Science
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-## General info
+## Explanation about the Unity template
 This project is simple Lorem ipsum dolor generator.
 	
 ## Technologies

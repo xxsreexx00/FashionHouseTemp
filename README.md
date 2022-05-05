@@ -3,22 +3,18 @@ This space contains the material related to the Unity course of the Data Science
 ## Table of contents
 * [Explanation about the Unity template](#Explanation)
 * [Links to slides of the course](#slides)
-* [Useful links](#links)
-* [Setup](#setup)
+* [Tutorials](#Tutorials)
 
 ## Explanation about the Unity template
 This project is simple Lorem ipsum dolor generator.
 
 ## Links to slides of the course
 	
-## Useful links
+## Tutorials
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33
 * Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
 
 ```
 $ cd ../lorem

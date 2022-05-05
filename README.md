@@ -1,2 +1,2 @@
 # Unity Class for Fashion students:
-This space contains all the material related to the Data Science course of the Digital Humanities and Digital Knowledge degree at the University of Bologna.
+This space contains the material related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.

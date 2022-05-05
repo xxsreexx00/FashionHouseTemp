@@ -3,14 +3,14 @@ This space contains the material related to the Unity course of the Data Science
 ## Table of contents
 * [Explanation about the Unity template](#Explanation)
 * [Links to slides of the course](#slides)
-* [Tutorials](#Tutorials)
+* [Extra tutorials](#Tutorials)
 
 ## Explanation about the Unity template
 This project is simple Lorem ipsum dolor generator.
 
 ## Links to slides of the course
 	
-## Tutorials
+## Extra tutorials
 Project is created with:
 * Lorem version: 12.3
 * Ipsum version: 2.33

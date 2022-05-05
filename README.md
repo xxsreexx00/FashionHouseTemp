@@ -22,10 +22,10 @@ It contains these parts:
 * Part 2: [Link to the Slides](https://docs.google.com/presentation/d/1MviPBiGDc32lQsXaDWD6mC8Bp6P_6Hm-nanf_po6opo/edit#slide=id.p34)
 	
 ## Extra tutorials
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+How to:
+* Create a simple building with Probuilder Unity
+* Cretae terrain in Unity
+
 
 ```
 $ cd ../lorem

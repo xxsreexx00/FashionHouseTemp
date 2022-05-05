@@ -2,6 +2,7 @@
 This space contains the material related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
 ## Table of contents
 * [Explanation about the Unity template](#Explanation)
+* [Slides](#slides)
 * [Useful links](#links)
 * [Setup](#setup)
 

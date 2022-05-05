@@ -23,6 +23,6 @@ It contains these parts:
 	
 ## Extra tutorials
 How to:
-* Create a simple building with Probuilder Unity
+* [Create a simple building with Probuilder Unity](#Probuilder)
 * Cretae terrain in Unity
-### Probuilder Unity
+### Create a simple building with Probuilder Unity

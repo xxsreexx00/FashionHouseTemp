@@ -18,8 +18,8 @@ It contains these parts:
 
 
 ## Links to slides of the course
-* Part 1
-* Part 2
+* Part 1: (https://pages.github.com/)
+* Part 2: (https://pages.github.com/)
 	
 ## Extra tutorials
 Project is created with:

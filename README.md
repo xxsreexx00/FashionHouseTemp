@@ -28,5 +28,5 @@ How to:
 * [Create terrain in Unity](#Terrain)
 * [Useful links](#Useful) 
 ## Create a simple building with Probuilder Unity
-## Cretae terrain in Unity
+## Create terrain in Unity
 ## Useful links

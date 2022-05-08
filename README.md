@@ -24,8 +24,7 @@ It contains these parts:
 ## Extra tutorials
 How to:
 * [Create a simple building with Probuilder Unity](#Probuilder)
-* [Create terrain in Unity](#Terrain)
 * [Useful links](#Useful) 
 ## Create a simple building with Probuilder Unity
-## Create terrain in Unity
+* Using the "New Poly Shape": you can follow this video to learn how to create a building that we need just its interior. [Link to the video](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 ## Useful links

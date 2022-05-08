@@ -24,8 +24,6 @@ It contains these parts:
 ## Extra tutorials
 How to:
 * [Create a simple building with Probuilder Unity](#Probuilder)
-* [Create terrain in Unity](#Terrain)
 * [Useful links](#Useful) 
 ## Create a simple building with Probuilder Unity
-## Create terrain in Unity
 ## Useful links

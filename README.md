@@ -15,11 +15,12 @@ It contains these parts:
 An example scene named "VirtualMuseum": 
 This scene is created by:
 - 3D models of a building (made by ProBuilder plugin)
-- 3D models of the products,
-- images,
-- videos,  
-- pannels of information, 
-- and c sharp script to make the user be able to move in the environment, rotating objects.
+- 3D models of the products
+- images for the walls
+- Images to create an image viewer
+- videos
+- pannels of information 
+- and c sharp script to make the user be able to move in the environment, rotating objects
 
 Including folders in the :
 * Materials

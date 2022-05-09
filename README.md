@@ -18,6 +18,7 @@ Including folders:
 * Images.
 * Videos.
 * Audios.
+* Fonts.
 
 
 ## Links to slides of the course

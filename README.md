@@ -23,7 +23,7 @@ This scene is created by:
 
 
 Assets folder of the project includes ten folders: 
-1. Fonts: it include the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
+1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
 2. GoogleVR
 3. Materials&Textures
 4. Models&Materials

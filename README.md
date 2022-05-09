@@ -6,10 +6,11 @@ This space contains the material related to the Unity course of the Data Science
 * [Extra tutorials](#Tutorials)
 
 ## Explanation about the Unity template
-This unity project aimed to provide a template for students to use as a start point for their projects.
+This unity project aimed to provide a template for students to use as a guide for their projects.
 It contains these parts:
-* An example scene named "ExampleFashionHouse": this scene is created by 3D models of a building, some furniture, some images, videos, audios, pannels of information and a c sharp script for the movement of the user.
-* These folders:
+* An example scene named "ExampleFashionHouse": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
+
+Including folders:
 * Materials.
 * Textures.
 * Images.

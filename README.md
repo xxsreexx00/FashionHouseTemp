@@ -8,9 +8,7 @@ This space contains the materials related to the Unity course of the Data Scienc
 
 ## Explanation about the Unity project
 
-
-## How to use the project
-Assets folder of the project includes ten folders: 
+This unity project includes ten folders: 
 1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
 2. GoogleVR: it is added automatically by adding the google VR sdk to the project.
 3. Materials&Textures:
@@ -23,11 +21,11 @@ Assets folder of the project includes ten folders:
 11. Videos: it contains a video to be shown on the video player.
 
 
-## How to use the exmple project
+## Explaining the exmple scene
 This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
 By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
 
-Guidelines on running the example:
+Guidelines on running the example scene:
 In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
 
 

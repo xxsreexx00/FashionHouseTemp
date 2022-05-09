@@ -25,6 +25,7 @@ It contains these parts:
 How to:
 * [Create a simple building with Probuilder Unity](#Probuilder)
 * [Useful links](#Useful) 
-## Getting familiar with Probuilding plugin: [Link to the Slides](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)
+## Getting familiar with Probuilding plugin: [Link to the video series]
+(https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)
 ## Create a simple building with Probuilder Unity
 * Using the "New Poly Shape": you can follow this video to learn how to create a building that we need just its interior. [Link to the video](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)

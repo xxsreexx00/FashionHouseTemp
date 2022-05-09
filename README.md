@@ -17,7 +17,7 @@ An example scene named "VirtualMuseum":
 This scene is created by:
 
 - A 3D model of a building (made by ProBuilder plugin) placed in the ModelsAssessories folder
-- 3D models of the products
+- 3D models of the products placed in the ModelsAssessories folder
 - Images for the walls
 - Images to create an image viewer
 - A video for the video player

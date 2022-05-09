@@ -39,7 +39,7 @@ This scene is created by:
 * [How to use the probuilder to create a building](#Building)
 
 ## How to create realistic materials
-
+* Link to the tutorial: https://www.youtube.com/watch?v=aiTl7B2xTmA
 
 
 ## Getting familiar with Probuilding plugin to build your own 3D models in Unity: 

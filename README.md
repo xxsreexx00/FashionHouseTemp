@@ -48,8 +48,9 @@ This scene is created by:
 ## Create a simple building with probuilder Unity
 First method, using the "New Poly Shape tool":
 
-Note: with this method the interior part of the building will be used. 
+Note: with this method the interior part of the building will be used. It is a very fast method for every plan of the buildings.
 
 * Link to the tutorial: (https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
-
+Second method, using "New Shape tool":
+* Link to the tutorial: 

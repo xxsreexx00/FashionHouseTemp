@@ -1,5 +1,5 @@
 # Unity Class for Fashion students:
-This space contains the material related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
+This space contains the materials related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
 ## Table of contents
 * [Explanation about the Unity template](#Explanation)
 * [Links to slides of the course](#slides)
@@ -10,9 +10,9 @@ This space contains the material related to the Unity course of the Data Science
 ## Explanation about the Unity template
 This unity project aimed to provide a template for students to use as a guide for their projects.
 It contains these parts:
-* An example scene named "ExampleFashionHouse": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
+* An example scene named "VirtualMuseum": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
 
-Including folders:
+Including folders in the :
 * Materials
 * Textures
 * ModelsAssessories

@@ -1,12 +1,12 @@
 # Unity Class for Fashion students:
 This space contains the materials related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
 ## Table of contents
-* [Introducung the Unity project](#Explanation)
-* [How to use the project](#Explanation)
+* [Explaining the Unity project](#Explanation)
+* [Explaining the exmple scene](#Explanation)
 * [Links to slides of the course](#slides)
 * [Extra tutorials](#Tutorials)
 
-## Explanation about the Unity project
+## Explaining the Unity project
 
 This unity project includes ten folders: 
 1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
@@ -39,14 +39,14 @@ In a folder named Scenes, double click on the name of a scene named "Virtual Mus
 * [Getting familiar with Probuilding plugin](#Probuilder)
 * [How to use the probuilder to create a building](#Building)
 
-## How to create realistic materials
+### How to create realistic materials
 * Link to the tutorial: https://www.youtube.com/watch?v=aiTl7B2xTmA
 * Link to the website to download free textures for creating realistic materials: https://polyhaven.com/
 
-## Getting familiar with probuilder plugin to build your own 3D models in Unity: 
+### Getting familiar with probuilder plugin to build your own 3D models in Unity: 
 * Link to the tutorial: (https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)
 
-## Create a simple building with probuilder Unity
+### Create a simple building with probuilder Unity
 ** First method, using the "New Poly Shape tool":
 
 Note: with this method the interior part of the building will be used. It is a very fast method for every plan of the buildings.

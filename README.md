@@ -20,8 +20,10 @@ This scene is created by:
 - Some pannels of the information on the walls 
 - C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer placed in the Scripts folder.
 
+
+
 Assets folder of the project includes ten folders: 
-1. Fonts
+1. Fonts: it include the assets 
 2. GoogleVR
 3. Materials&Textures
 4. Models&Materials
@@ -32,9 +34,9 @@ Assets folder of the project includes ten folders:
 10. TextMeshPro
 11. Videos
 
-
 Guidelines on running the example:
 * In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
+
 * 
 
 

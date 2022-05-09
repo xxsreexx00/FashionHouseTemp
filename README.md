@@ -22,7 +22,7 @@ It contains these parts:
 * Part 2: [Link to the Slides](https://docs.google.com/presentation/d/1MviPBiGDc32lQsXaDWD6mC8Bp6P_6Hm-nanf_po6opo/edit#slide=id.p34)
 	
 ## Extra tutorials
-* [What is probuilder](#Probuilder)
+* [Getting familiar with Probuilding plugin](#Probuilder)
 * [How to use the probuilder to create a building](#Probuilder)
 
 ## Getting familiar with Probuilding plugin to build your own 3D models in Unity: 

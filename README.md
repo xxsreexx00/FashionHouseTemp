@@ -10,6 +10,9 @@ This space contains the materials related to the Unity course of the Data Scienc
 ## Explanation about the Unity template
 This unity project aimed to provide a template for students to use as a guide for their projects.
 
+The experience: 
+In this example, user find himself/herself in front of a door.
+
 It contains these parts:
 
 An example scene named "VirtualMuseum":

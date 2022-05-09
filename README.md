@@ -7,7 +7,7 @@ This space contains the materials related to the Unity course of the Data Scienc
 * [Extra tutorials](#Tutorials)
 
 
-## Explanation about the Unity template
+## Explanation about the Unity project
 This unity project aimed to provide a template for students to use as a guide for their projects. It provides an experience for the user in a virtual museum. At start, user finds himself/herself in front of a door. By touching the screen of the smartphone (or presseing the button of the cardboard), s/he can move in direction of his/her looking. Passing a corridor, s/he will reach to the entering of two room.  The left room provides two experiences: a video player and an image viewer that the user can interact with their buttons. Some information is also written on the wall. The second room presents some models on top of a base. User can rotate them by having her/his gaze on top of the rotate button place on top of them. Some images are overlayed on top of the wall of this room.
 
 

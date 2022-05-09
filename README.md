@@ -40,7 +40,7 @@ This scene is created by:
 
 ## How to create realistic materials
 * Link to the tutorial: https://www.youtube.com/watch?v=aiTl7B2xTmA
-
+* Link to the website to download free textures for creating realistic materials: https://polyhaven.com/
 
 ## Getting familiar with probuilder plugin to build your own 3D models in Unity: 
 * Link to the tutorial: (https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)

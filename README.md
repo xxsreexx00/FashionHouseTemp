@@ -8,7 +8,7 @@ This space contains the materials related to the Unity course of the Data Scienc
 
 ## Explanation about the Unity project
 This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
-By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on surrounding walls.  The left room provides two experiences: a video player and an image viewer that the user can interact with through having eye gaze on the available buttons. The second room presents models on top of a base. User can rotate them by having her/his gaze on top of the rotate button placed on top of them. 
+By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
 
 
 The project contains these parts:

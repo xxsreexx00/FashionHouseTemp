@@ -14,13 +14,13 @@ Assets folder of the project includes ten folders:
 1. Fonts
 2. GoogleVR
 3. Materials&Textures
-4. Probuilder Data
-5. Scenes
-6. Scripts
-7. Videos
-8. Textures
-9. TextMeshPro
-12. Models&Materials
+4. Models&Materials
+5. Probuilder Data
+6. Scenes
+7. Scripts
+9. Textures
+10. TextMeshPro
+11. Videos
 
 
 Guidelines on running the example:

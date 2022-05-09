@@ -15,12 +15,12 @@ It contains these parts:
 Including folders:
 * Materials
 * Textures
-* Models
+* ModelsAssessories
 * Images
 * Videos
 * Audios
 * Fonts
-* GoogleVRSDK
+* GoogleVR SDK
 * Scenes
 * Scripts
 

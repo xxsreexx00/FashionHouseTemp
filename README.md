@@ -33,8 +33,6 @@ In a folder named Scenes, double click on the name of a scene named "Virtual Mus
 * Part 1: [Link to the Slides](https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1)
 * Part 2: [Link to the Slides](https://docs.google.com/presentation/d/1MviPBiGDc32lQsXaDWD6mC8Bp6P_6Hm-nanf_po6opo/edit#slide=id.p34)
 
-## An apk file of the built project for Android smartphones
-* Link to download the file: 
 	
 ## Extra tutorials
 * [How to create realistic materials](#Realistic)

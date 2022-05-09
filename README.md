@@ -16,25 +16,14 @@ An example scene named "VirtualMuseum":
 
 This scene is created by:
 
-- A 3D model of a building (made by ProBuilder plugin)
+- A 3D model of a building (made by ProBuilder plugin) placed in the ModelsAssessories folder
 - 3D models of the products
 - Images for the walls
 - Images to create an image viewer
 - A video for the video player
 - Some pannels of the information on the walls 
-- C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer
+- C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer placed in the Scripts folder.
 
-Including folders in the :
-* Materials
-* Textures
-* ModelsAssessories
-* Images
-* Videos
-* Audios
-* Fonts
-* GoogleVR SDK
-* Scenes
-* Scripts
 
 
 ## Links to slides of the course

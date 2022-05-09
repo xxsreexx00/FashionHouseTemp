@@ -22,7 +22,7 @@ This scene is created by:
 - Images to create an image viewer
 - A video for the video player
 - Some pannels of the information on the walls 
-- C sharp scriptS to make the user be able to move in the environment, rotating objects, and change the images for the image viewer
+- C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer
 
 Including folders in the :
 * Materials

@@ -8,7 +8,7 @@ This space contains the materials related to the Unity course of the Data Scienc
 
 
 ## Explanation about the Unity template
-This unity project aimed to provide a template for students to use as a guide for their projects. It provides an experience for the user in a virtual museum. At start, user finds himself/herself in front of a door. By touching the screen of the smartphone (or presseing the button of the cardboard), s/he can move in direction of his/her looking. Passing a corridor, s/he will reach to the entering of two room.  The left room provides two experience: a video player and an image viewer. Some information is also written on the wall. 
+This unity project aimed to provide a template for students to use as a guide for their projects. It provides an experience for the user in a virtual museum. At start, user finds himself/herself in front of a door. By touching the screen of the smartphone (or presseing the button of the cardboard), s/he can move in direction of his/her looking. Passing a corridor, s/he will reach to the entering of two room.  The left room provides two experiences: a video player and an image viewer. Some information is also written on the wall. 
 
 It contains these parts:
 

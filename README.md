@@ -10,7 +10,7 @@ This space contains the materials related to the Unity course of the Data Scienc
 ## Explanation about the Unity template
 This unity project aimed to provide a template for students to use as a guide for their projects.
 It contains these parts:
-* An example scene named "VirtualMuseum": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
+* An example scene named "VirtualMuseum": this scene is created by 3D models of a building (made by ProBuilder plugin), 3D models of the products, images, videos,  pannels of information, and c sharp script to make the user be able to move in the environment, rotating objects.
 
 Including folders in the :
 * Materials

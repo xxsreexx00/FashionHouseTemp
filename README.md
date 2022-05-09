@@ -10,18 +10,6 @@ This space contains the materials related to the Unity course of the Data Scienc
 This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
 By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
 
-This scene is created by:
-
-- A 3D model of a building (made by ProBuilder plugin) placed in the ModelsAssessories folder
-- 3D models of the products placed in the ModelsAssessories folder
-- Images for the walls placed in the Material folder
-- Images to create an image viewer placed in the Material folder
-- A video for the video player placed in the Video folder
-- Some pannels of the information on the walls 
-- C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer placed in the Scripts folder.
-
-
-
 Assets folder of the project includes ten folders: 
 1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
 2. GoogleVR: it is added automatically by adding the google VR sdk to the project.
@@ -35,13 +23,8 @@ Assets folder of the project includes ten folders:
 11. Videos: it contains a video to be shown on the video player.
 
 Guidelines on running the example:
-* In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
+In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
 
-* 
-
-
-
-An example scene named "VirtualMuseum"
 
 
 

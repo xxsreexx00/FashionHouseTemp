@@ -12,7 +12,6 @@ This unity project aimed to provide a template for students to use as a guide fo
 
 It contains these parts:
 * An example scene named "VirtualMuseum": 
-
 This scene is created by:
 - 3D models of a building (made by ProBuilder plugin)
 - 3D models of the products,

@@ -8,6 +8,6 @@ public class RotateTheObject : MonoBehaviour
     public void Rotate()
     {
 
-        transform.eulerAngles += new Vector3(0, 10, 0);
+        transform.eulerAngles += new Vector3(0, 45, 0);
     }
 }

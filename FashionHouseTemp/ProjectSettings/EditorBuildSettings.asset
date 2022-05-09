@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Museum1.unity
+    path: Assets/Scenes/VirtualMuseum.unity
     guid: 36389cf71cede674cb8dbe2481bb4c42
   m_configObjects: {}

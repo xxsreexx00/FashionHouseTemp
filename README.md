@@ -13,12 +13,14 @@ It contains these parts:
 * An example scene named "ExampleFashionHouse": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
 
 Including folders:
-* Materials.
-* Textures.
-* Images.
-* Videos.
-* Audios.
-* Fonts.
+* Materials
+* Textures
+* Models
+* Images
+* Videos
+* Audios
+* Fonts
+* GoogleVRSDK
 
 
 ## Links to slides of the course

@@ -1,18 +1,14 @@
 # Unity Class for Fashion students:
 This space contains the materials related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
 ## Table of contents
-* [Explanation about the Unity template](#Explanation)
+* [Explanation about the Unity project](#Explanation)
 * [Links to slides of the course](#slides)
-* [An apk file of the built project for Android smartphones](#Tutorials)
 * [Extra tutorials](#Tutorials)
 
 
-## Explanation about the Unity template
-This unity project aimed to provide a template for students to use as a guide for their projects. It provides an experience for the user in a virtual museum. At start, user finds himself/herself in front of a door. By touching the screen of the smartphone (or presseing the button of the cardboard), s/he can move in direction of his/her looking. Passing a corridor, s/he will reach to the entering of two room.  The left room provides two experiences: a video player and an image viewer that the user can interact with their buttons. Some information is also written on the wall. The second room presents some models on top of a base. User can rotate them by having her/his gaze on top of the rotate button place on top of them. Some images are overlayed on top of the wall of this room.
-
-
-The project contains these parts:
-An example scene named "VirtualMuseum":
+## Explanation about the Unity project
+This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
+By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
 
 This scene is created by:
 
@@ -23,6 +19,31 @@ This scene is created by:
 - A video for the video player placed in the Video folder
 - Some pannels of the information on the walls 
 - C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer placed in the Scripts folder.
+
+
+
+Assets folder of the project includes ten folders: 
+1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
+2. GoogleVR: it is added automatically by adding the google VR sdk to the project.
+3. Materials&Textures:
+4. Models&Materials:
+5. Probuilder Data: it is added automatically by adding the Probuilder plugin to the project.
+6. Scenes: including the example scene
+7. Scripts: it contains three scripts: image viewer, move forward, and rotate the object.
+9. Textures:
+10. TextMeshPro: it is added automatically by adding the TextMeshPro plugin to the project.
+11. Videos: it contains a video to be shown on the video player.
+
+Guidelines on running the example:
+* In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
+
+* 
+
+
+
+An example scene named "VirtualMuseum"
+
+
 
 
 

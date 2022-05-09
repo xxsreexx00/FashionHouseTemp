@@ -21,6 +21,8 @@ Including folders:
 * Audios
 * Fonts
 * GoogleVRSDK
+* Scenes
+* Scripts
 
 
 ## Links to slides of the course

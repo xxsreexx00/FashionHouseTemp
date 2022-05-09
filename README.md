@@ -53,6 +53,7 @@ Note: with this method the interior part of the building will be used. It is a v
 * Link to the tutorial: (https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
 Second method, using "New Shape tool":
+
 Note: we have both interior and exterior of the building to work with it.
 
 * Link to the tutorial: 

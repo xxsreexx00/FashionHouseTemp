@@ -1,5 +1,5 @@
 # Unity Class for Fashion students:
-This space contains the material related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
+This space contains the materials related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
 ## Table of contents
 * [Explanation about the Unity template](#Explanation)
 * [Links to slides of the course](#slides)
@@ -9,20 +9,21 @@ This space contains the material related to the Unity course of the Data Science
 
 ## Explanation about the Unity template
 This unity project aimed to provide a template for students to use as a guide for their projects.
-It contains these parts:
-* An example scene named "ExampleFashionHouse": this scene is created by 3D models of a building (made by probuilder plugin), some 3D models, some images, videos, a pannel of information, and a c sharp script to make the user be able to move in the environment.
 
-Including folders:
-* Materials
-* Textures
-* ModelsAssessories
-* Images
-* Videos
-* Audios
-* Fonts
-* GoogleVR SDK
-* Scenes
-* Scripts
+It contains these parts:
+
+An example scene named "VirtualMuseum":
+
+This scene is created by:
+
+- A 3D model of a building (made by ProBuilder plugin) placed in the ModelsAssessories folder
+- 3D models of the products placed in the ModelsAssessories folder
+- Images for the walls placed in the Material folder
+- Images to create an image viewer placed in the Material folder
+- A video for the video player placed in the Video folder
+- Some pannels of the information on the walls 
+- C sharp scripts to make the user be able to move in the environment, rotating objects, and change the images for the image viewer placed in the Scripts folder.
+
 
 
 ## Links to slides of the course
@@ -33,14 +34,26 @@ Including folders:
 * Link to download the file: 
 	
 ## Extra tutorials
+* [How to create realistic materials](#Realistic)
 * [Getting familiar with Probuilding plugin](#Probuilder)
-* [How to use the probuilder to create a building](#Probuilder)
+* [How to use the probuilder to create a building](#Building)
 
-## Getting familiar with Probuilding plugin to build your own 3D models in Unity: 
+## How to create realistic materials
+* Link to the tutorial: https://www.youtube.com/watch?v=aiTl7B2xTmA
+
+
+## Getting familiar with probuilder plugin to build your own 3D models in Unity: 
 * Link to the tutorial: (https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)
 
-## Create a simple building with Probuilder Unity
-Note: the interior part of the building will be used. 
+## Create a simple building with probuilder Unity
+** First method, using the "New Poly Shape tool":
+
+Note: with this method the interior part of the building will be used. It is a very fast method for every plan of the buildings.
+
 * Link to the tutorial: (https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
+** Second method, using "New Shape tool":
 
+Note: we have both interior and exterior of the building to work with it.
+
+* Link to the tutorial: 

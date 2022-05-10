@@ -27,7 +27,7 @@ Virtual Building
 
 The 3D model of building could be provided whether by downloading from the websites or creating by Probuilder tool in Unity. 
 
-Link to a tutorial for Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
+Link to a tutorial for Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l&ab_channel=IndieGameHustle)
 
 Link to a tutorial for creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 

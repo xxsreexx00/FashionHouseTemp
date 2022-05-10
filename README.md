@@ -38,7 +38,7 @@ The 3D model of building could be provided whether by downloading from the websi
 * Creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
 
-#### Find some example for 3D models of the building are placed inside this folder: 
+#### Find some example for 3D models of the building inside these folders: 
 
 For downloaded models: Models -> Buildings -> Downloaded Buildings. 
 

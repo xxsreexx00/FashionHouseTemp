@@ -40,9 +40,9 @@ The 3D model of building could be provided whether by downloading from the websi
 
 #### **Find some example for 3D models of the building inside these folders: 
 
-For downloaded models: Models -> Buildings -> Downloaded Buildings. 
+For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
 
-For models created by Probuilder tool: Models -> Buidlings -> CreatedByProBuilder.
+For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 
 
 
@@ -50,7 +50,10 @@ For models created by Probuilder tool: Models -> Buidlings -> CreatedByProBuilde
 
 In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
 
-Link to a tutorials  on how to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
+#### **Links to the tutorials: 
+How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
 
-Link to a website to download free textures for creating realistic materials: [Link to the videos](https://polyhaven.com/)
+A website to download free textures for creating realistic materials: [Link to the videos](https://polyhaven.com/)
 
+#### **Find some example for Materials in these folders:
+Assets -> Materials&Textures

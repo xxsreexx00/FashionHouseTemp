@@ -22,11 +22,8 @@ This unity project includes ten folders:
 
 
 ## Explaining the exmple scene
-This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
+In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it. This example scene aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
 By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
-
-Guidelines on running the example scene:
-In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
 
 
 ## Links to slides of the course

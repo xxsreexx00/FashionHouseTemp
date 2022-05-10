@@ -1,32 +1,16 @@
 # Unity Class for Fashion students:
-This space contains the materials related to the Unity course of the Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna.
+This space contains some materials related to the Unity course of Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna. You can find here a Unity project, slides of the course, and some links to the useful tutorials. 
+
 ## Table of contents
 * [Explaining the Unity project](#Explanation)
-* [Explaining the exmple scene](#Explanation)
 * [Links to slides of the course](#slides)
 * [Extra tutorials](#Tutorials)
 
 ## Explaining the Unity project
 
-This unity project includes ten folders: 
-1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
-2. GoogleVR: it is added automatically by adding the google VR sdk to the project.
-3. Materials&Textures:
-4. Models&Materials:
-5. Probuilder Data: it is added automatically by adding the Probuilder plugin to the project.
-6. Scenes: including the example scene
-7. Scripts: it contains three scripts: image viewer, move forward, and rotate the object.
-9. Textures:
-10. TextMeshPro: it is added automatically by adding the TextMeshPro plugin to the project.
-11. Videos: it contains a video to be shown on the video player.
+This unity project includes example assets such as models, materials, textures, videos, and scripts placed in the related folders. 
 
-
-## Explaining the exmple scene
-This unity project aimed to provide a guideline for students' projects providing a virtual museum experience. At start, user finds himself/herself in front of a door.
-By tapping on the screen of the smartphone (or presseing the button of the cardboard), s/he can move in the direction of his/her looking. Passing a corridor, s/he will reach to the entering of two rooms with texts and images overlayed on their surrounding walls.  The left room provides two interactions: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, user can interact with them by rotating them by having her/his gaze on top of the rotate button placed on their tops. 
-
-Guidelines on running the example scene:
-In a folder named Scenes, double click on the name of a scene named "Virtual Museum" to open it.
+In the scenes folder of the project, double click on the name of a scene named "Virtual Museum" to open it. This example scene aimed to provide a guideline for students' projects providing a virtual museum experience. At the start, the user finds himself/herself in front of a door. By tapping on the screen of the smartphone (or pressing the button of the cardboard), s/he can move in the direction of his/her look. Passing a corridor, s/he will reach the entering of two rooms with texts and images overlayed on their surrounding walls. The left room provides two interaction experiences: with a video player and with an image viewer through having eye gaze on the available buttons. In the second room that presents models on top of a base, users can rotate them by having her/his gaze on top of the rotate button placed on their tops.
 
 
 ## Links to slides of the course

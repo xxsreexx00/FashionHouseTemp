@@ -1,4 +1,4 @@
-# Unity Class for Fashion students:
+# Unity Class for the fashion students:
 This space contains some materials related to the Unity course of Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna. You can find here a Unity project, slides of the course, and some links to the helpful tutorials. 
 
 ## Table of contents

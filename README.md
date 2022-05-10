@@ -8,17 +8,7 @@ This space contains some materials related to the Unity course of Data Science a
 
 ## Explaining the Unity project
 
-This unity project includes ten folders: 
-1. Fonts: it includes the font assets created by the method explained in the slides part2, pages 13, 14, and 15.  
-2. GoogleVR: it is added automatically by adding the google VR sdk to the project.
-3. Materials&Textures:
-4. Models&Materials:
-5. Probuilder Data: it is added automatically by adding the Probuilder plugin to the project.
-6. Scenes: including the example scene
-7. Scripts: it contains three scripts: image viewer, move forward, and rotate the object.
-9. Textures:
-10. TextMeshPro: it is added automatically by adding the TextMeshPro plugin to the project.
-11. Videos: it contains a video to be shown on the video player.
+This unity project includes example assets that you can find them in the related folders such as models, materials, textures, videos, and scripts. 
 
 
 ## Explaining the exmple scene

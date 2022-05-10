@@ -27,7 +27,7 @@ In the scenes folder of the project, the template scene is provide as a starting
 During the projects, student will need to create the experience in a virtual building with realistic appearance.
 
 
-Virtual Building
+### Virtual Building
 
 The 3D model of building could be provided whether by downloading from the websites or creating by Probuilder tool in Unity. 
 
@@ -44,7 +44,7 @@ For models created by Probuilder tool: Models -> Buidlings -> CreatedByProBuilde
 
 
 
-Realistic appearance for the 3D models
+### Realistic appearance for the 3D models
 
 In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
 

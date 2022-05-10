@@ -21,14 +21,18 @@ In the scenes folder of the project, double click on the name of a scene named "
 ## Links to the helpful tutorials
 During the projects, student will need to create the experience in a virtual building with realistic appearance.
 
+** Virtual Building
+
 The 3D model of building could be provided whether by downloading from the websites or creating by Probuilder tool in Unity. 
+
+Link to a tutorial for Getting familiar with probuilder plugin to build your own 3D models in Unity:  https://www.youtube.com/watch?v=aiTl7B2xTmA
+Link to a tutorial for creating a building with ProBuilder tool: https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle
 
 Some example of these free 3D models for building are placed inside this folder: 
 For downloaded models: Models -> Buildings -> Downloaded Buildings. 
 For models created by Probuilder tool: Models -> Buidlings -> CreatedByProBuilder.
 
-Link to a tutorial for Getting familiar with probuilder plugin to build your own 3D models in Unity:  https://www.youtube.com/watch?v=aiTl7B2xTmA
-Link to a tutorial for creating a building with ProBuilder tool: https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle
+** Realistic appearance for the 3D models
 
 In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
 Link to a tutorials  on how to create realistic materials: https://www.youtube.com/watch?v=aiTl7B2xTmA

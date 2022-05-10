@@ -19,6 +19,14 @@ In the scenes folder of the project, double click on the name of a scene named "
 
 	
 ## Extra tutorials
+During the projects, it would be needed to create the experience in a virtual building with realistic appearance.
+The 3D model of building could be provided whether by downloading the free 3D versions or created by Probuilder tool in Unity. Some free 3D models dowloaded from asset store are placed inside the this folder Models -> Buildings -> Downloaded Buildings.
+
+
+
+In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
+
+
 * [How to create realistic materials](#Realistic)
 * [Getting familiar with Probuilding plugin](#Probuilder)
 * [How to use the probuilder to create a building](#Building)

@@ -12,6 +12,7 @@ This unity project includes some example assets such as models, materials, textu
 
 In the scenes folder of the project, double click on the name of a scene named "Virtual Museum" to open it. This example scene aimed to provide a guideline for students providing a virtual museum experience. At the start the experience, the user finds himself/herself in front of a door. By tapping on the screen of the smartphone (or pressing the button of the cardboard), s/he can move in the direction of his/her look. Passing a corridor, s/he will reach the entering of two rooms with texts and images overlayed on their surrounding walls. The left room provides two interaction experiences through having eye gaze on the available buttons: a video player and an image viewer. In the right room, user can rotate 3D models of clothes by having her/his gaze on top of the rotate buttons.
 
+In the scenes folder of the project, the template scene is provide as a starting point for the projects.
 
 ## Links to slides of the course
 * Part 1: [Link to the Slides](https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1)

@@ -4,7 +4,7 @@ This space contains some materials related to the Unity course of Data Science a
 ## Table of contents
 * [Explaining the Unity project](#Explanation)
 * [Links to slides of the course](#slides)
-* [Extra tutorials](#Tutorials)
+* [Links to the helpful tutorials](#Tutorials)
 
 ## Explaining the Unity project
 

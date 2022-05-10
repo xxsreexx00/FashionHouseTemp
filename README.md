@@ -20,33 +20,12 @@ In the scenes folder of the project, double click on the name of a scene named "
 	
 ## Extra tutorials
 During the projects, it would be needed to create the experience in a virtual building with realistic appearance.
-The 3D model of building could be provided whether by downloading the free 3D versions or created by Probuilder tool in Unity. Some free 3D models dowloaded from asset store are placed inside the this folder Models -> Buildings -> Downloaded Buildings.
+The 3D model of building could be provided whether by downloading the free 3D versions or created by Probuilder tool in Unity. Some free 3D models dowloaded from asset store are placed inside this folder: Models -> Buildings -> Downloaded Buildings. Some example buidling created by Probuilder tool is placed inside this folder: Models -> Buidlings -> CreatedByProBuilder.
 
-
+Link to a tutorial for Getting familiar with probuilder plugin to build your own 3D models in Unity:  https://www.youtube.com/watch?v=aiTl7B2xTmA
+Link to a tutorial for creating a building with ProBuilder tool: https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle
 
 In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
+Link to a tutorials  on how to create realistic materials: https://www.youtube.com/watch?v=aiTl7B2xTmA
+Link to a website to download free textures for creating realistic materials: https://polyhaven.com/
 
-
-* [How to create realistic materials](#Realistic)
-* [Getting familiar with Probuilding plugin](#Probuilder)
-* [How to use the probuilder to create a building](#Building)
-
-### How to create realistic materials
-* Link to the tutorial: https://www.youtube.com/watch?v=aiTl7B2xTmA
-* Link to the website to download free textures for creating realistic materials: https://polyhaven.com/
-
-### Getting familiar with probuilder plugin to build your own 3D models in Unity: 
-* Link to the tutorial: (https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l)
-
-### Create a simple building with probuilder Unity
-** First method, using the "New Poly Shape tool":
-
-Note: with this method the interior part of the building will be used. It is a very fast method for every plan of the buildings.
-
-* Link to the tutorial: (https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
-
-** Second method, using "New Shape tool":
-
-Note: we have both interior and exterior of the building to work with it.
-
-* Link to the tutorial: 

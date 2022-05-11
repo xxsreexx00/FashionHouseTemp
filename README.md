@@ -27,7 +27,7 @@ In the scenes folder of the project, the template scene is provide as a starting
 During the projects, students need to create the experience in a virtual building with a realistic appearance.
 
 
-### *Virtual Building
+### - Virtual Building
 
 The 3D model of building could be provided whether by downloading from the websites or creating by Probuilder tool in Unity. 
 

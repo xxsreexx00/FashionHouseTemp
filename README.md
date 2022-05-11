@@ -29,7 +29,7 @@ During the projects, students need to create the experience in a virtual buildin
 
 ### - Virtual Building
 
-The 3D model of building could be provided whether by downloading from the websites, creating on 3D modelling external softwares, or creating by Probuilder tool in Unity. 
+The 3D model of the building could be provided whether by downloading from the websites (some of the links are provided in the slides), creating on 3D modelling external softwares, or creating by Probuilder tool in Unity. 
 
 #### -- Some example for 3D models of the building are provided that could be found in these folders of the unity project: 
 

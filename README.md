@@ -46,7 +46,7 @@ The 3D model of building could be provided whether by downloading from the websi
 
 ### -Realistic appearance for the 3D models
 
-In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
+In order to give realistic appearance to objects and buidling, realistic material should be created and applyed to the surfaces.
 
 #### **Links to the tutorials: 
 How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)

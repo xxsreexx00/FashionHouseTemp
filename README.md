@@ -1,4 +1,4 @@
-# Unity Class for the fashion students:
+# Unity Class for Data Science and Immersive Technologies for Fashion E-Commerce:
 This space contains some materials related to the unity course of Data Science and Immersive Technologies for Fashion E-Commerce at the University of Bologna. You can find here a unity project, slides of the course, and some links to the helpful tutorials. 
 
 ## Table of contents
@@ -31,7 +31,7 @@ During the projects, students need to create the experience in a virtual buildin
 
 ### - Virtual Building
 
-The 3D model of the building could be provided whether by downloading from the websites (some of the links are provided in the slides), creating with exteral 3D modelling softwares, or creating by Probuilder tool in Unity. 
+The 3D model of the building can be either downloaded from the asset store, or created using the Probuilder tool in Unity. 
 
 #### -- Some examples for 3D models of the buildings are placed in these folders of the unity project: 
 

@@ -14,6 +14,8 @@ This unity project includes some example assets such as 3D models, materials, te
 
 In the scenes folder of the project, double click on the name of a scene named "VirtualMuseum" to open it. This example scene aimed to provide a guideline for students providing a virtual museum experience. At the start of the experience, the user finds himself/herself in front of a door. By tapping on the screen of the smartphone (or pressing the button of the cardboard), s/he can move in the direction of his/her look. Passing a corridor, s/he will reach the entering of two rooms with texts and images overlayed on their surrounding walls. The left room provides two interaction experiences through having gaze on the available buttons for a video player and an image viewer. In the right room, user can rotate 3D models of clothes by having her/his gaze on top of the rotate buttons on top head of them.
 
+* The .apk file (built for Android smartphones) of the example scene is also provided in the built folder of the project.
+
 ### The template scene:
 
 In the scenes folder of the project, the template scene is provided as a starting point for the projects.
@@ -33,7 +35,7 @@ The 3D model of the building could be provided whether by downloading from the w
 
 #### -- Some examples for 3D models of the buildings are placed in these folders of the unity project: 
 
-* For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
+* For downloaded models: Assets -> Models -> Buildings -> DownloadedBuildings. 
 
 * For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 

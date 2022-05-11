@@ -18,7 +18,7 @@ In the scenes folder of the project, double click on the name of a scene named "
 
 ### The template scene:
 
-In the scenes folder of the project, the template scene with an empty building and settings for VR project is provided as a starting point for the projects.
+In the scenes folder of the project, the template scene with an empty building and settings for the VR project is provided as a starting point for the projects.
 
 ## Links to slides of the course
 * Part 1: [Link to the Slides](https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1)

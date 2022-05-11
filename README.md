@@ -31,18 +31,21 @@ During the projects, students need to create the experience in a virtual buildin
 
 The 3D model of building could be provided whether by downloading from the websites, creating on 3D modelling external softwares, or creating by Probuilder tool in Unity. 
 
-#### **Links to the tutorials on how to use the Probuilder plugin:
+#### -- Find some example for 3D models of the building inside these folders: 
+
+For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
+
+For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
+
+
+#### -- Links to the tutorials on how to use the Probuilder plugin:
 
 * Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l&ab_channel=IndieGameHustle)
 
 * Creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
 
-#### **Find some example for 3D models of the building inside these folders: 
 
-For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
-
-For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 
 
 

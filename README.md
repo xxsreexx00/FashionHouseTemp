@@ -50,8 +50,8 @@ In order to give realistic appearance to objects and buidlings, realistic materi
 
 #### -- Some example for realistic materials are placed in this folder of the unity project: Assets -> Materials&Textures
 
-#### --Links to the tutorials on: How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
-
+#### --Links: 
+* How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
 * A website to download free textures for creating realistic materials: [Link to the videos](https://polyhaven.com/)
 
 

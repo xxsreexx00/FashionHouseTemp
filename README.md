@@ -12,11 +12,11 @@ This unity project includes some example assets such as 3D models, materials, te
 
 ### The example scene:
 
-In the scenes folder of the project, double click on the name of a scene named "VirtualMuseum" to open it. This example scene aimed to provide a guideline for students providing a virtual museum experience. At the start of the experience, the user finds himself/herself in front of a door. By tapping on the screen of the smartphone (or pressing the button of the cardboard), s/he can move in the direction of his/her look. Passing a corridor, s/he will reach the entering of two rooms with texts and images overlayed on their surrounding walls. The left room provides two interaction experiences through having eye gaze on the available buttons for a video player and an image viewer. In the right room, user can rotate 3D models of clothes by having her/his gaze on top of the rotate buttons on top head of them.
+In the scenes folder of the project, double click on the name of a scene named "VirtualMuseum" to open it. This example scene aimed to provide a guideline for students providing a virtual museum experience. At the start of the experience, the user finds himself/herself in front of a door. By tapping on the screen of the smartphone (or pressing the button of the cardboard), s/he can move in the direction of his/her look. Passing a corridor, s/he will reach the entering of two rooms with texts and images overlayed on their surrounding walls. The left room provides two interaction experiences through having gaze on the available buttons for a video player and an image viewer. In the right room, user can rotate 3D models of clothes by having her/his gaze on top of the rotate buttons on top head of them.
 
 ### The template scene:
 
-In the scenes folder of the project, the template scene is provide as a starting point for the projects.
+In the scenes folder of the project, the template scene is provided as a starting point for the projects.
 
 ## Links to slides of the course
 * Part 1: [Link to the Slides](https://docs.google.com/presentation/d/1jW5Lnh7VeGfh6XpTCF8-IT86O99VvfY1ZAJkn-QAXBc/edit#slide=id.p1)
@@ -29,32 +29,30 @@ During the projects, students need to create the experience in a virtual buildin
 
 ### - Virtual Building
 
-The 3D model of building could be provided whether by downloading from the websites, creating on 3D modelling external softwares, or creating by Probuilder tool in Unity. 
+The 3D model of the building could be provided whether by downloading from the websites (some of the links are provided in the slides), creating with exteral 3D modelling softwares, or creating by Probuilder tool in Unity. 
 
-#### -- Some example for 3D models of the building are provided that could be found in these folders of the unity project: 
+#### -- Some examples for 3D models of the buildings are placed in these folders of the unity project: 
 
 * For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
 
 * For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 
 
-#### -- Links to the tutorials on how to use the Probuilder plugin:
+#### -- Links:
 
 * Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l&ab_channel=IndieGameHustle)
 
 * Creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
-### -Realistic appearance for the 3D models
+### - Realistic appearance for the 3D models
 
-In order to give realistic appearance to objects and buidling, realistic material should be created and applyed to the surfaces.
+In order to give realistic appearance to objects and buidlings, realistic material should be created and applied to the surfaces.
 
-#### -- Some example for realistic materials are provided that could be found in this folder of the unity project: Assets -> Materials&Textures
+#### -- Some example for realistic materials are placed in this folder of the unity project: 
+* Assets -> Materials&Textures
 
-
-
-#### --Links to the tutorials: 
-* How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)
-
-* A website to download free textures for creating realistic materials: [Link to the videos](https://polyhaven.com/)
+#### -- Links: 
+* How to create realistic materials: [Link to the video](https://www.youtube.com/watch?v=aiTl7B2xTmA)
+* A website to download free textures for creating realistic materials: [Link to the website](https://polyhaven.com/)
 
 

@@ -24,7 +24,7 @@ In the scenes folder of the project, the template scene is provide as a starting
 
 	
 ## Links to the helpful tutorials
-During the projects, student will need to create the experience in a virtual building with realistic appearance.
+During the projects, studentS need to create the experience in a virtual building with realistic appearance.
 
 
 ### *Virtual Building

@@ -44,12 +44,7 @@ The 3D model of building could be provided whether by downloading from the websi
 
 * Creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
-
-
-
-
-
-### *Realistic appearance for the 3D models
+### -Realistic appearance for the 3D models
 
 In order to give realistic appearance to objects and buidling surfaces, realistic material should be created.
 

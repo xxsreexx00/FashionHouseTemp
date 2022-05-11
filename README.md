@@ -38,7 +38,7 @@ The 3D model of the building could be provided whether by downloading from the w
 * For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 
 
-#### -- Links to the tutorials on how to use the Probuilder plugin:
+#### -- Links:
 
 * Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l&ab_channel=IndieGameHustle)
 

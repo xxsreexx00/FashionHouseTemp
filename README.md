@@ -44,7 +44,7 @@ The 3D model of the building could be provided whether by downloading from the w
 
 * Getting familiar with probuilder plugin to build your own 3D models in Unity: [Link to the videos](https://www.youtube.com/watch?v=MQ5GZq6vj5M&list=PLVpxoFqeUjC8WPHfE2eupQLlUoHrqeK6l&ab_channel=IndieGameHustle)
 
-* Creating a building with ProBuilder tool: [Link to the videos](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
+* Creating a building with ProBuilder tool: [Link to the video](https://www.youtube.com/watch?v=LDbwQ9ngExU&ab_channel=IndieGameHustle)
 
 ### - Realistic appearance for the 3D models
 

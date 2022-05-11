@@ -33,9 +33,9 @@ The 3D model of building could be provided whether by downloading from the websi
 
 #### -- Some example for 3D models of the building are provided that could be found in these folders of the unity project: 
 
-For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
+* For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
 
-For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
+* For models created by Probuilder tool: Assets -> Models -> Buidlings -> CreatedByProBuilder.
 
 
 #### -- Links to the tutorials on how to use the Probuilder plugin:

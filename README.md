@@ -29,9 +29,9 @@ During the projects, students need to create the experience in a virtual buildin
 
 ### - Virtual Building
 
-The 3D model of the building could be provided whether by downloading from the websites (some of the links are provided in the slides), creating on 3D modelling external softwares, or creating by Probuilder tool in Unity. 
+The 3D model of the building could be provided whether by downloading from the websites (some of the links are provided in the slides), creating wiht exteral 3D modellingsoftwares, or creating by Probuilder tool in Unity. 
 
-#### -- Some example for 3D models of the building are provided that could be found in these folders of the unity project: 
+#### -- Some examples for 3D models of the buildings are placed in these folders of the unity project: 
 
 * For downloaded models: Assets -> Models -> Buildings -> Downloaded Buildings. 
 
@@ -46,11 +46,9 @@ The 3D model of the building could be provided whether by downloading from the w
 
 ### -Realistic appearance for the 3D models
 
-In order to give realistic appearance to objects and buidling, realistic material should be created and applyed to the surfaces.
+In order to give realistic appearance to objects and buidlings, realistic material should be created and applyed to the surfaces.
 
-#### -- Some example for realistic materials are provided that could be found in this folder of the unity project: Assets -> Materials&Textures
-
-
+#### -- Some example for realistic materials are placed in this folder of the unity project: Assets -> Materials&Textures
 
 #### --Links to the tutorials: 
 * How to create realistic materials: [Link to the videos](https://www.youtube.com/watch?v=aiTl7B2xTmA)

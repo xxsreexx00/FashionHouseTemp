@@ -6,7 +6,7 @@ This space contains some materials related to the unity course of Data Science a
 * [Links to slides of the course](#slides)
 * [Links to the helpful tutorials](#Tutorials)
 
-## Explaining the Unity project
+## Explaining the unity project
 
 This unity project includes some example assets such as models, materials, textures, videos, and scripts placed in the related folders that can be used for creating new projects. 
 

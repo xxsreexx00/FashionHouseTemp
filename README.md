@@ -48,7 +48,8 @@ The 3D model of the building could be provided whether by downloading from the w
 
 In order to give realistic appearance to objects and buidlings, realistic material should be created and applied to the surfaces.
 
-#### -- Some example for realistic materials are placed in this folder of the unity project: Assets -> Materials&Textures
+#### -- Some example for realistic materials are placed in this folder of the unity project: 
+* Assets -> Materials&Textures
 
 #### --Links: 
 * How to create realistic materials: [Link to the video](https://www.youtube.com/watch?v=aiTl7B2xTmA)

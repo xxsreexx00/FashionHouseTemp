@@ -64,6 +64,6 @@ In order to give realistic appearance to objects and buidlings, realistic materi
 * How to create realistic materials: [Link to the video](https://www.youtube.com/watch?v=aiTl7B2xTmA)
 * A website to download free textures for creating realistic materials: [Link to the website](https://polyhaven.com/)
 
-### - How to share the unity project
+### - How to work together with a unity project and have version control:
 #### -- Links:
 * How to use the github: [Link to the video](https://www.youtube.com/watch?v=qpXxcvS-g3g)

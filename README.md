@@ -16,7 +16,7 @@ In the scenes folder of the project, double click on the name of a scene named "
 
 *You can always navigate in the unity scene view by using the combination of the moving scroll wheel of your mouse forward and backward and right-clicking on the mouse and moving it to the right and left. This is helpful when you are creating different parts of your environment in unity.
 
-*In the hierrachy you can find two types of players: Player(fortestonphone)" and "Player(fortestinUnity). you can inactivate the "Player(fortestonphone)" and activate the player named "Player(fortestinUnity)" when you are testing the project inside the unity itself.  In this way, you can look around by pressing the Alt key on your keyboard and moving the mouse to the right and left, and moving in the direction of looking by the use of the arrow keys on your keyboard. And you can inactive the "Player(fortestinUnity)" and active the "Player(fortestonphone)" for building and testing the project with a smartphone.
+*In the hierrachy window you can find two types of players: Player(fortestonphone)" and "Player(fortestinUnity). you can inactivate the "Player(fortestonphone)" and activate the player named "Player(fortestinUnity)" when you are testing the project inside the unity itself.  In this way, you can look around by pressing the Alt key on your keyboard and moving the mouse to the right and left, and moving in the direction of looking by the use of the arrow keys on your keyboard. And you can inactive the "Player(fortestinUnity)" and active the "Player(fortestonphone)" for building and testing the project with a smartphone.
 
 *The .apk file (built for Android smartphones) of the example scene is also provided in the built folder of the project.
 
